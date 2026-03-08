@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "seed": "node utils/seed.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "mongoose": "^8.23.0"
+  }
+}
